@@ -1,0 +1,8 @@
+{
+    "Hello": "မင်္ဂလာပါ",
+    "You have %s message": {
+        "one": "You have %s စာတစ်စောင်ရှိသည်",
+        "other": "You have %s စာများရှိသည်"
+    }
+}
+  
